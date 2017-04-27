@@ -33,7 +33,7 @@ $stub->store('/path/to/save/file', 'filename');
 ## Usage in Laravel
 ```php
 <?php 
-namsepace App\YouNamespace;
+namsepace App\YourNamespace;
 
 use Facades\ {
   Goszowski\Stub\Stub
